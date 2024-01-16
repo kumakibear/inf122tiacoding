@@ -1,5 +1,5 @@
 # INF - 122
-Nombre: Tatiana Delgadillo
+Nombre: Enrique Reynaldo Iturri 
 
 Materia: INF-122
 
